@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@types/node": "^20.3.3"
+  },
+  "scripts": {
+    "start": "tsc --outDir dist && node ./dist/main.js"
+  }
+}
